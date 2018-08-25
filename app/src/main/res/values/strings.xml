@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LockTheScreen</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
