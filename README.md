@@ -1,6 +1,6 @@
 # Lock The Screen
 
-### An Android app that locks the screen :P
+### An Android app that locks the screen :p
 
 Tutorial:
 https://medium.com/@ssaurel/creating-a-lock-screen-device-app-for-android-4ec6576b92e0
